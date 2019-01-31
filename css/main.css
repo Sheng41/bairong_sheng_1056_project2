@@ -1,0 +1,201 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hidden
+{
+	display: none;
+}
+
+#container{
+	width: 970px;
+	height: 1080px;
+	margin: 0 auto;
+}
+
+
+h2{
+	text-align: left;
+	font-size: 42px;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+}
+
+h3{
+	text-align: left;
+	font-size: 36px
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Noto Serif SC', serif;
+
+}
+
+h4{
+	font-size: 24px;
+	text-align: left;
+	font-family: 'Roboto Slab', serif;
+}
+
+p{
+	font-size: 21px;
+	text-align: left;
+	line-height: 25px
+	margin-bottom: 25px;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Noto Serif SC', serif;
+	font-family: 'Roboto Slab', serif;
+	font-family: 'Poppins', sans-serif;
+}
+
+#mainHeader{
+	padding-top: 20px;
+}
+#mainHeader img{
+	width:100%;
+}
+.MainNav{
+	margin-top: 15px;
+	margin-bottom:0;
+	text-align: right;
+	font-size: 24px;
+	font-family: 'Roboto Slab', serif;
+	background: #ccc;
+    height: 50px;
+    line-height: 50px;
+	
+}
+
+
+.MainNav ul li{
+	float: left;
+    display: block;
+    width: 150px;
+	height:50px;
+    text-align: center;
+	}
+
+.MainNav ul li a{
+	display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: #000;
+	}
+
+.MainNav ul li a:hover{
+	background:#696969;
+	color:#fff;
+	}
+
+.aboutsystem{
+	padding-top: 30px;
+	padding-bottom: 15px;
+	}
+
+.aboutsystem img {
+	margin-left: 10px;
+	width: 600px;
+	margin-right: 15px;
+	float:right;
+}
+
+.aboutsystem h4 ul li {
+	float: right;
+	max-width: 300px;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.aboutsystem h4{
+	font-size: 22px;
+	margin-top: 0;
+}
+
+.aboutsystem p{
+	
+}
+
+.someINF{
+	float:left;
+	padding-top: 15px;
+}
+.someINF h4{
+	margin-bottom: 0;
+    border-bottom: 1px #696969 solid;
+    padding-bottom: 15px;
+}
+.someINF img{
+	width: 40%;
+	height: auto;
+	display: inline-block;
+}
+
+
+#fishchecking{
+	margin-top:50px;
+}
+#testingonce{
+	border: 1px #ccc solid;
+}
+#testingonce:hover{
+	background:#696969;
+	color:#fff;
+}
+#testingonce img{
+	width: 300px;
+    height: 225px;
+    float: left;
+	margin-right:20px;
+}
+#testingonce p {
+	margin:0;
+	height: 200px;
+    line-height: 200px;
+}
+
+.RainbowTours {
+	display: inline-block;
+}
+.RainbowTours h3{
+	text-align: center;
+    font-size: 36px;
+}
+
+#babyfish{
+	width: 300px;
+    float: left;
+    border: 1px #ccc solid;
+    margin-left: 10px;
+}
+
+#babyfish img {
+	width: 300px;
+    height: 200px;
+}
+
+#babyfish p {
+	padding-left: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
